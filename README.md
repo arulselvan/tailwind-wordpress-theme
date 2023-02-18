@@ -1,2 +1,2 @@
-# wiz-wp-theme (Wordpress + Tailwind)
+# wiz-theme (Wordpress + Tailwind)
 A base Wordpress theme with Tailwind
